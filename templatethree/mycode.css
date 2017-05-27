@@ -1,0 +1,409 @@
+/* CSS Document */
+
+body{
+	background-image: url(03/popular_bg.jpg);
+	margin: 0px;
+}
+
+#main{
+	width: 1200px;
+	height: 1660px;
+	margin: auto;
+	margin-top: 25px;
+	box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.1 );
+	position: relative;
+	margin-bottom: 30px;
+	
+}
+
+#header{
+	width: 1100px;
+	height: 100px;
+	margin: auto;
+}
+
+#logo{
+	float: left;
+	background-image: url(03/logo.png);
+	width: 265px;
+	height: 28px;
+	margin-top: 32px;
+}
+
+#topbrdr{
+	width: 1200px;
+	height: 5px;
+	background-color: #FFFFFF;
+	margin: auto;
+	float: left;
+	
+}
+#header>ul>li{
+	list-style: none;
+	float: right;
+	width: 105px;
+	height: 55px;
+	text-align: center;
+	padding-top: 35px;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+	color: #4F4C4D;
+	transition: .2s border-top;
+	border-top: 5px solid rgba(0,0,0,0);
+	
+	
+}
+
+#header>ul>li:hover{
+	box-sizing: border-box;
+	border-top: 5px solid #FF0004;
+	cursor: pointer;
+	
+
+}
+
+
+#banner{
+
+	background-image: url(03/6f43b5263fbba79c5962514b85d34738_XL.jpg);
+	width: 1100px;
+	height: 408px;
+	margin: auto;
+	position: relative;
+	box-shadow: 0px 4px 20px 6px rgba(0,0,0,0.2);
+}
+
+#bannerftr{
+	background-color: rgba(0,0,0,0.42);
+	width: 1100px;
+	height: 45px;
+	position: absolute;
+	bottom: 0px;
+	
+}
+
+#bnnertxt{
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+	font-size: 25px;
+	margin-top: 9px;
+	display: list-item;
+	margin-left: 30px;
+	color: #FFFFFF;
+}
+
+#imgtgl{
+	width: 100px;
+	margin: auto;
+	margin-top: 20px;
+}
+
+#imgtgl>div{
+	
+	width: 15px;
+	height: 15px;
+	background-color: #FFFFFF;
+	border-radius: 15px;
+	margin-left: 3px;
+	float: left;
+	border: 1px solid #4F4C4D;
+	transition: .8s background-color;
+	
+}
+
+#imgtgl>div:hover{
+	opacity: 100%;
+	background-color: #4F4C4D;
+	cursor: pointer;
+}
+
+#aftrbnr{
+	width: 1100px;
+	margin: auto;
+	margin-top: 45px;
+	opacity: .5;
+}	
+
+#middlecnt{
+	width: 1100px;
+	height: 200px;
+	margin: auto;
+	margin-top: 25px;
+}
+
+.bx{
+	width: 345px;
+	height: 200px;
+	float: left;
+	margin-right: 32.5px;
+}
+
+.bx:last-child{
+	margin-right: 0px;
+}
+
+.bx>p{
+	font-family: Verdana;
+	font-size: 12px;
+	line-height: 180%;
+	color: #636363;
+}
+
+.bx>h1{
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+	margin-top: 12px;
+	width: 300px;
+	color: #4F4C4D;
+}
+
+
+.bx>div{
+	float: left;
+	margin-top: 10px;
+	margin-right: 12px;
+}
+
+span{
+	font-family: Verdana;
+	font-size: 12.5px;
+}
+
+span:hover{
+	cursor: pointer;
+}
+
+
+#aftrbnr2{
+	width: 1100px;
+	margin: auto;
+	margin-top: 45px;
+	opacity: .5;
+}
+
+
+#beforebtm{
+	width: 1100px;
+	height: 597px;
+	margin: auto;
+	margin-top: 30px;
+	border-bottom: 1px solid rgba(108,108,108,0.3);
+}
+
+#imght{
+	background-image: url(03/deb9f9efc56ef2a940bdf0d58ccaad5c_M.jpg);
+	width: 260px;
+	height: 176px;
+	background-size: cover;
+	float: left;
+	margin-right: 25px;
+}
+
+#btmcnt{
+	width: 700px;
+	height: 200px;
+	float: left;
+}
+
+#hotsolution{
+	float: left;
+
+}
+
+#hotsolution>h1{
+	margin: 0px;
+	margin-bottom: 15px;
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+	color: #4F4C4D;
+}
+
+#hotsolution>p{
+	font-family: Verdana;
+	font-size: 12px;
+	line-height: 180%;
+	color: #636363;
+	margin: 0px;
+	margin-bottom: 10px;
+}
+
+
+#hotsolution>div{
+	color: #636363;
+	font-family: Verdana;
+	font-weight: bold;
+	font-size: 12.5px;
+}
+
+#afterbnr3{
+	width: 700px;
+	margin-top: 30px;
+	opacity: .5;
+}
+
+#beforebtmtopright{
+	float: right;
+	width: 340px;
+	height: 565px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#beforebtmtopright>div>h1{
+	margin-bottom: 30px;
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+	color: #4F4C4D;
+}
+
+.smallhr{
+	width: 340px;
+	opacity: .5;
+	margin-top: 20px;
+	border-style: dotted;
+	
+}
+
+#beforebtmtopright>div>h2{
+	font-family: Verdana;
+	font-size: 17px;
+	color: #636363;
+}
+
+#beforebtmtopright>div>p{
+	font-family: Verdana;
+	font-size: 12.5px;
+	color: #636363;
+	
+}
+
+#boxrdmore{
+	width: 110px;
+	height: 35px;
+	background-color: #7B7B7B;
+	border-radius: 12px;
+	margin-top: 20px;
+	padding-top: 19px;
+	padding-left: 25px;
+	font-family: Verdana;
+	font-size: 14px;
+	transition: 2s ease;
+}
+
+#boxrdmore:hover{
+	background-color: #2A2A2A;
+	color: #ffffff;
+	cursor: pointer;
+}
+
+#beforebtmdownleft{
+	width: 349px;
+	height: 335px;
+	float: left;
+	margin-top: 40px;
+}
+
+#beforebtmdownright{
+	width: 310px;
+	height: 335px;
+	float: left;
+	margin-top: 35px;
+	border-left: 1px solid rgba(108,108,108,0.3);
+	padding-left: 40px;
+	
+	
+}
+#beforebtmdownleft>h1{
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+	color: #4F4C4D;
+	margin-left: 30px;
+	margin-top: 0px;
+}
+
+#beforebtmdownleft>ul>li{
+	list-style: url(03/list1_marker.gif);
+	font-family: Verdana;
+	font-size: 13px;
+	color: #636363;
+	height: 24px;
+	width: 200px;
+}
+
+#beforebtmdownleft>ul>li:hover{
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+#imagedown{
+	background-image: url(03/184b7cb84d7b456c96a0bdfbbeaa5f14_S.jpg);
+	width: 270px;
+	height: 160px;
+	background-size: cover;
+	margin-bottom: 17px;
+	margin-top: 15px;
+}
+
+#beforebtmdownright>h1{
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+	color: #4F4C4D;
+	margin-left: 30px;
+	margin-top: 10px;
+	padding: 0px;
+	margin: 0px;
+}
+
+#beforebtmdownright>p{
+	font-family: Verdana;
+	font-size: 12.5px;
+	color: #636363;
+}
+
+#verybtm{
+	width: 1100px;
+	height: 120px;
+	margin-top: 40px;
+	margin: auto;
+	border-bottom: 1px solid rgba(108,108,108,0.3);
+}
+
+#verybtm>ul{
+	float: left;
+	list-style: url(03/list1_marker.gif);
+	width: 150px;
+	margin-top: 25px;
+	margin-right: 80px;
+}
+
+#verybtm>ul>li{
+	font-family: Verdana;
+	font-size: 13px;
+	height: 26px;
+	color: #636363;
+}
+
+#socialmedia{
+	float: left;
+	width: 200px;
+	height:30px;
+	margin-top: 40px;
+}
+
+#socialmedia>img{
+	margin-left: 10px;
+}
+
+
+#ftr{
+	width: 1100px;
+	margin: auto;
+	height: 86px;
+}
+
+#ftr>div{
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+	font-size: 15px;
+	font-weight: bold;
+	margin-top: 34px;
+	float: left;
+	color: #636363;
+}
+
+#ftr>div:hover{
+	cursor: pointer;
+	color: #000000;
+}

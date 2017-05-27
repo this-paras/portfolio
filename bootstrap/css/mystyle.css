@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	background-color: rgba(20,19,19,1.00);
+}
+.mymain{
+	background-color: darkred;
+	font-family: Impact;
+	color: white;
+}
+
+.mymain>h1{
+	border-bottom: 2px solid rgba(255,255,255,0.42);
+}
+
+.textleft{
+	text-align: left;
+}
+
+.textcenter{
+	text-align: center;
+}
+
+.marginL{
+	margin-left: 10px;
+	padding-top: 5px;
+}
+
+div>h2{
+	color: rgba(86,86,86,1.00);
+}
+
+.slidebuttoncolor{
+	height: 70px;
+	width: 70px;
+	background-color: rgba(61,61,61,0.61);
+}
+
+.forMargin{
+	margin-bottom: 7px;
+}
+
+#myheader{
+	font-family: Myriad Pro Cond;
+	font-size: 8em;
+	
+}

@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kbc>
+	<quest>
+		<ques>Which of the following is the latest Tank?</ques>
+		<opta>Akash</opta>
+		<optb>Pritvi</optb>
+		<optc>Arjun</optc>
+		<optd>Bhim</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>As per census 2001, which of the following States has the lowest density of population?</ques>
+		<opta>Manipur</opta>
+		<optb>Meghalaya</optb>
+		<optc>Nagaland</optc>
+		<optd>Mizoram</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>The Chilka Lake region lies in between the deltas of</ques>
+		<opta>Ganga and Mahanadi</opta>
+		<optb>Godavari and Krishna</optb>
+		<optc>Mahanadi and Godavari</optc>
+		<optd>Krishna and Kaveri</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Which of the following prizes is given by the UNESCO?</ques>
+		<opta>Magsaysay Award</opta>
+		<optb>Kalinga Prize</optb>
+		<optc>Booker Prize</optc>
+		<optd>Pulitzer Prize</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>The first electric railway was opened in</ques>
+		<opta>1853</opta>
+		<optb>1885</optb>
+		<optc>1905</optc>
+		<optd>1925</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>Which among the following is the most common element in the earth's crust?</ques>
+		<opta>Hydrogen</opta>
+		<optb>Oxygen</optb>
+		<optc>Magnesium</optc>
+		<optd>Aluminium</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>U Thant Award is given for</ques>
+		<opta>Contribution to east-est understanding</opta>
+		<optb>Community leadership</optb>
+		<optc>Social service</optc>
+		<optd>Journalism</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Which of the following is correctly matched?</ques>
+		<opta>Gulbarga - Karnataka</opta>
+		<optb>Midnapur - Gujarat</optb>
+		<optc>Wardha - Madhya Pradesh</optc>
+		<optd>Cochin - Tamil Nadu</optd>
+		<ca>1</ca>
+		<ap>50,10,20,20</ap>
+	</quest>
+	
+	<quest>
+		<ques>The State in India having dry season for only 3 to 4 months every year is</ques>
+		<opta>West Bengal</opta>
+		<optb>Kerala</optb>
+		<optc>Mizoram</optc>
+		<optd>Himachal Prades</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Who among the following were popularly known as Red Shirts?</ques>
+		<opta>Congress Socialists</opta>
+		<optb>Members of Azad Hind Fauj</optb>
+		<optc>Khudai Khidmatgars</optc>
+		<optd>People led by Rami Gaidinliu</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>The Barrah dacoity was the first major venture of the revolutionary terrorists of the freedom movement in</ques>
+		<opta>The Madras Presidency</opta>
+		<optb>Punjab</optb>
+		<optc>Bomay-Karnataka</optc>
+		<optd>East Bengal</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>During the period of Renaissance, the new style of architecture first developed in</ques>
+		<opta>Italy</opta>
+		<optb>France</optb>
+		<optc>England</optc>
+		<optd>Germany</optd>
+		<ca>1</ca>
+		<ap>50,10,20,20</ap>
+	</quest>
+	
+	<quest>
+		<ques>Who among the following was the Constitutional adviser to the Constituent Assembly of India?</ques>
+		<opta>M. C. Setalvad</opta>
+		<optb> K. M. Munshi</optb>
+		<optc>Jawaharlal Nehru</optc>
+		<optd>B. N. Rau</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>A common High Court for two or more states and/or Union Territories may be established by the</ques>
+		<opta>President</opta>
+		<optb>Parliament by making law</optb>
+		<optc>Governor of State</optc>
+		<optd> Chief Justice of India</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Which of the following writs may be issued to enforce a Fundamental Right?</ques>
+		<opta>Habeas Corpus</opta>
+		<optb>Mandamus</optb>
+		<optc>Prohibition</optc>
+		<optd>Certiorari</optd>
+		<ca>1</ca>
+		<ap>50,10,20,20</ap>
+	</quest>
+	
+	<quest>
+		<ques>Srinagar is situated on the bank of the river</ques>
+		<opta>Ravi</opta>
+		<optb>Sutlej</optb>
+		<optc>Jhelum</optc>
+		<optd>Chenab</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Which of the following rivers does not form any delta at its mouth?</ques>
+		<opta>Cauvery</opta>
+		<optb>Mahanadi</optb>
+		<optc>Gadavari</optc>
+		<optd>Tapti</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>The canal joining Baltic Sea to North Sea is</ques>
+		<opta>Kiel Canal</opta>
+		<optb>Suez Canal</optb>
+		<optc>Panama Canal</optc>
+		<optd>None of these</optd>
+		<ca>1</ca>
+		<ap>50,10,20,20</ap>
+	</quest>
+	
+	<quest>
+		<ques>Which of the following pairs is correct?</ques>
+		<opta>Bonn - Danube</opta>
+		<optb>Baghdad - Tigris</optb>
+		<optc>Rome - Seine</optc>
+		<optd>Paris - Tiber</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>High pressure subtropical calm belts known as `Horse Latitudes' lies between</ques>
+		<opta>0° and 15°</opta>
+		<optb>20° and 25°</optb>
+		<optc>30° and 35°</optc>
+		<optd>None of these</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>On 22nd December, which of the following places has the largest day and shortest night?</ques>
+		<opta>Melbourne</opta>
+		<optb>Moscow</optb>
+		<optc>Madrid</optc>
+		<optd>Madras</optd>
+		<ca>1</ca>
+		<ap>50,10,20,20</ap>
+	</quest>
+	
+	<quest>
+		<ques>'Abhinav Bharat' was orgonised by</ques>
+		<opta>Bhai Parmanand</opta>
+		<optb>Khudiram Bose</optb>
+		<optc>Vir Savarkar</optc>
+		<optd>None of these</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>In 2010, China became the third country in the world to possess an anti satellite weapon system. The other two countries are</ques>
+		<opta>Germany and Russia</opta>
+		<optb>France and the USA</optb>
+		<optc>The USA and Germany</optc>
+		<optd>The USA and Russia</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>Which organisation collects data for the unorganised sector?</ques>
+		<opta>NSSO</opta>
+		<optb>CSO</optb>
+		<optc>ASI</optc>
+		<optd>RBI</optd>
+		<ca>1</ca>
+		<ap>50,10,20,20</ap>
+	</quest>
+	
+	<quest>
+		<ques>Blue Revolution is related to</ques>
+		<opta>Fish Production</opta>
+		<optb>Milk Production</optb>
+		<optc>Oil Production</optc>
+		<optd>Food Production</optd>
+		<ca>1</ca>
+		<ap>50,10,20,20</ap>
+	</quest>
+	
+	<quest>
+		<ques>Who was the first Test centurion in Indian Cricket?</ques>
+		<opta>Vinu Mankad</opta>
+		<optb>C. K. Naidu</optb>
+		<optc>Lala Amarnath</optc>
+		<optd>Pankaj Roy</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>From which of the following Upanishads the words "Satyameva Jayate" inscribed in Devanagari Script below the abacus of the State Emblem are?</ques>
+		<opta>Prashna</opta>
+		<optb>Mundaka</optb>
+		<optc>Mandukya</optc>
+		<optd>Ishavasya</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Which country of the following has the largest Muslim population?</ques>
+		<opta>India</opta>
+		<optb>Pakistan</optb>
+		<optc>Indonesia</optc>
+		<optd>Saudi Arabia</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>The confluence of the river Alkananda and Bhagirathi is known as</ques>
+		<opta>Rudraprayag</opta>
+		<optb>Devaprayag</optb>
+		<optc>Haridwar</optc>
+		<optd>Kedarnath</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Who is the author of the book "The Argumentative Indian"?</ques>
+		<opta>V. S. Naipaul</opta>
+		<optb>Vikram Seth</optb>
+		<optc>Sashi Tharoor</optc>
+		<optd>Amartya Sen</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>Who is the Chief Law Officer of the Government of India?</ques>
+		<opta>The Chief Justice of India</opta>
+		<optb>The Registrar of the Supreme Court</optb>
+		<optc>The Law Minister of India</optc>
+		<optd>The Attorney General of India</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>Which of the following pairs is incorrectly matched?</ques>
+		<opta>Encephalitis - Brain</opta>
+		<optb>Colitis - Colon</optb>
+		<optc>Hepatitis - Liver</optc>
+		<optd>Jaundice - Throat</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>Which of the following types of clothes is manufactured by using petroleum products?</ques>
+		<opta>Rayon Silk</opta>
+		<optb>Terelyne</optb>
+		<optc>Nylon</optc>
+		<optd>Cotton</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>A light sensitive compound used in photography is</ques>
+		<opta>Silver chloride</opta>
+		<optb>Silver sulphide</optb>
+		<optc>Silver bromide</optc>
+		<optd>Silver oxide</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>The function of hemoglobin in the body is</ques>
+		<opta>Transport of oxygen</opta>
+		<optb>Destruction of bacteria</optb>
+		<optc>Prevention of anemia</optc>
+		<optd>Utilisation of iron</optd>
+		<ca>1</ca>
+		<ap>50,10,20,20</ap>
+	</quest>
+	
+	<quest>
+		<ques>Protective foods in our diet are</ques>
+		<opta>Fats and vitamins</opta>
+		<optb>Carbohydrates and minerals</optb>
+		<optc>Vitamins and minerals</optc>
+		<optd>Proteins and carbohydrates</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>The ancient name of Bengal was</ques>
+		<opta>Kamrupa</opta>
+		<optb>Vasta</optb>
+		<optc>Gauda</optc>
+		<optd>Vallabhi</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Ahilyabai was the queen of</ques>
+		<opta>Gwalior</opta>
+		<optb>Malwa</optb>
+		<optc>Jaipur</optc>
+		<optd>Bijapur</optd>
+		<ca>1</ca>
+		<ap>50,10,20,20</ap>
+	</quest>
+	
+	<quest>
+		<ques>Marish traveller, Ibn Batutah, came to India during the time of</ques>
+		<opta>Ala-ud-din Khilji</opta>
+		<optb>Firuz Shah Tughlaq</optb>
+		<optc>Balban</optc>
+		<optd>Muhammed bin Tughlaq</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>The relics of Indus Valley Civilisation indicates that the main occupation of the people was</ques>
+		<opta>Agriculture</opta>
+		<optb>Cattle rearing</optb>
+		<optc>Commerce</optc>
+		<optd>Hunting</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques> The first telegraph line between Calcutta and Agra was opened in</ques>
+		<opta>1852</opta>
+		<optb>1853</optb>
+		<optc>1854</optc>
+		<optd>1855</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>The first discourse of Buddha in Sarnath is called</ques>
+		<opta>Mahabhiniskraman</opta>
+		<optb>Mahaparinirvana</optb>
+		<optc>Mahamastakabhisheka</optc>
+		<optd>Dharmachakrapravartan</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>The Political and cultural centre of the Pandyas was</ques>
+		<opta>Vengi</opta>
+		<optb>Madurai</optb>
+		<optc>Kanchipuram</optc>
+		<optd>Mahabalipuram</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Who wrote the Book- "Four Essays on Liberty"</ques>
+		<opta>Herbert Spencer</opta>
+		<optb> J. S. Mill</optb>
+		<optc>Ernest Barker</optc>
+		<optd>Isaish Berlin</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>Who wrote Mitakshara, a book on Hindu law?</ques>
+		<opta>Nayachandra</opta>
+		<optb>Amoghvarsa</optb>
+		<optc>Vijnaneswara</optc>
+		<optd>Kumban</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Gupta empire declined in the fifth century A.D. as a consequence of</ques>
+		<opta>Chalukya raids</opta>
+		<optb>Greek invasion</optb>
+		<optc>Hun invasion</optc>
+		<optd>Pallava raids</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Who founded the Hindu Shahi dynasty of Punjab?</ques>
+		<opta>Vasumitra</opta>
+		<optb>Kallar</optb>
+		<optc>Jayapala</optc>
+		<optd>Mahipala</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>The main external threat to the Sultanate of Delhi was posed by the</ques>
+		<opta>Mughals</opta>
+		<optb>Afghans</optb>
+		<optc>Iranians</optc>
+		<optd>None of these</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>Who among the following was a leading exponent of Gandhian thoughts?</ques>
+		<opta>J. L. Nehru</opta>
+		<optb>M. N. Roy</optb>
+		<optc>Vinoba Bhave</optc>
+		<optd>Jayaprakash Narayan</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Who were the immediate successors of the Imperial Mauryas in Magadha?</ques>
+		<opta>Kushanas</opta>
+		<optb>Pandyas</optb>
+		<optc>Satvahanas</optc>
+		<optd>Sungas</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>Both Mahavira and Buddha preached during the reign of</ques>
+		<opta>Ajatashatru</opta>
+		<optb>Bimbisara</optb>
+		<optc>Nandivardhan</optc>
+		<optd>Uday</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Jahangiri Mahal is located in</ques>
+		<opta>Delhi</opta>
+		<optb>Fatehpur Sikri</optb>
+		<optc>Agra Fort</optc>
+		<optd>Sikandara</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>The percentage of glucose present in the normal urine is</ques>
+		<opta>0.1%</opta>
+		<optb>2%</optb>
+		<optc>9.5%</optc>
+		<optd>0%</optd>
+		<ca>1</ca>
+		<ap>50,10,20,20</ap>
+	</quest>
+	
+	<quest>
+		<ques>The magnetic effect of electric current was first observed by</ques>
+		<opta>Henry</opta>
+		<optb>Oersted</optb>
+		<optc>Faraday</optc>
+		<optd>Volta</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Of the total water on the earth, fresh water reserves constitute approximately</ques>
+		<opta>4.5%</opta>
+		<optb>2.7%</optb>
+		<optc>1.2%</optc>
+		<optd>5.8%</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>The black hole theory was discovered by</ques>
+		<opta>S. Chandrashekhar</opta>
+		<optb>Har Gobind Khorana</optb>
+		<optc>C. V. Raman</optc>
+		<optd>S. Ramanujan</optd>
+		<ca>1</ca>
+		<ap>50,10,20,20</ap>
+	</quest>
+	
+	<quest>
+		<ques>The main contribution of the Chola dynasty in the field of administration lies in</ques>
+		<opta>Systematic provincial administration</opta>
+		<optb>A well planned revenue system</optb>
+		<optc>A well organised central government</optc>
+		<optd>An organised local self government</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>Who founded the philosophy of Pustimarga?</ques>
+		<opta>Chaitanya</opta>
+		<optb>Nanak</optb>
+		<optc>Surdas</optc>
+		<optd>Ballabhacharya</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>Which of the following battles changed the destiny of a Mughal ruler of India?</ques>
+		<opta>Haldighati</opta>
+		<optb>Panipat II</optb>
+		<optc>Khanua</optc>
+		<optd>Chusa</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>"The Vedas contain all the truth" was interpreted by</ques>
+		<opta>Swami Vivekanand</opta>
+		<optb>Swami Dayanand</optb>
+		<optc>Swami Shraddhanand</optc>
+		<optd>S.Radhakrishnan</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Babur entered India for the first time from the west through</ques>
+		<opta>Kashmir</opta>
+		<optb>Sind</optb>
+		<optc>Punjab</optc>
+		<optd>Rajasthan</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Which was the first among the following?</ques>
+		<opta>Doctrine of Lapse</opta>
+		<optb>Subsidiary Alliance</optb>
+		<optc>Permanent Settlement</optc>
+		<optd>Double Government</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>The name of Lord Cornwallis is associated with the</ques>
+		<opta>Dual government</opta>
+		<optb>Maratha wars</optb>
+		<optc>System of subsidiary</optc>
+		<optd>Permanent settlement</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>Sir Charles Wood's Despatch of 1854 dealt with</ques>
+		<opta>Administrative reforms</opta>
+		<optb>Social reforms</optb>
+		<optc>Economic reforms</optc>
+		<optd>Educational reforms</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>The sea route to India was discovered by the</ques>
+		<opta>Dutch</opta>
+		<optb>English</optb>
+		<optc>Portuguese</optc>
+		<optd>French</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Which of the following pairs is correct?</ques>
+		<opta>Ashvaghosa - Vikramaditya</opta>
+		<optb>Banabhatta - Harshvardhan</optb>
+		<optc>Harisena - Kanishka</optc>
+		<optd>Kalidasa - Samudragupta</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>4th July, 1776 is important in world history because</ques>
+		<opta>Battle of Plassey started</opta>
+		<optb>Sea route to India was discovered</optb>
+		<optc>English King Charles II was executed</optc>
+		<optd>American congress adopted the Declaration of Independence</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>Rowlatt Act was passed in the year</ques>
+		<opta>1917</opta>
+		<optb>1919</optb>
+		<optc>1921</optc>
+		<optd>1923</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Communal electorate in India was introduced through which of the following acts?</ques>
+		<opta>1909</opta>
+		<optb>1919</optb>
+		<optc>1935</optc>
+		<optd>None of these</optd>
+		<ca>1</ca>
+		<ap>50,10,20,20</ap>
+	</quest>
+	
+	<quest>
+		<ques>What is meat by myopia?</ques>
+		<opta>Long-sightedness</opta>
+		<optb>Short-sightedness</optb>
+		<optc>Colour blindness</optc>
+		<optd>Night blindness</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Non-conventional source of energy best suited for India is</ques>
+		<opta>Solar energy</opta>
+		<optb>Wind energy</optb>
+		<optc>Tidal wave energy</optc>
+		<optd>Nuclear energy</optd>
+		<ca>1</ca>
+		<ap>50,10,20,20</ap>
+	</quest>
+	
+	<quest>
+		<ques>The Paralympic Games 2008 were held in</ques>
+		<opta>Tokyo</opta>
+		<optb>Madrid</optb>
+		<optc>Stockholm</optc>
+		<optd>Beijing</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques> The International Court of Justice has</ques>
+		<opta>10 judges</opta>
+		<optb>15 judges</optb>
+		<optc>20 judges</optc>
+		<optd>25 judges</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>The book 'A Theory of Justice' is authored by-</ques>
+		<opta>John Locke</opta>
+		<optb>John Rawls</optb>
+		<optc>John Austin</optc>
+		<optd>Plato</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Process of breeding fish in ponds and artificial reservoirs is known as</ques>
+		<opta>Aquaculture</opta>
+		<optb>Fishing</optb>
+		<optc>Apiculture</optc>
+		<optd>Pisciculture</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>The first Europeans to start trade relations with India were the</ques>
+		<opta>Portuguese</opta>
+		<optb>British</optb>
+		<optc>French</optc>
+		<optd>Dutch</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>Which one of the following ensures personal freedom?</ques>
+		<opta>Mandamus</opta>
+		<optb>Habeas Corpus</optb>
+		<optc>Quo Warranto</optc>
+		<optd>None of These</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Herbicides are chemicals which control</ques>
+		<opta>Fungi</opta>
+		<optb>Weeds</optb>
+		<optc>Nematodes</optc>
+		<optd>Insects</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>The role of chlorophyll in photosynthesis is</ques>
+		<opta>Absorption of water</opta>
+		<optb>Absorption of light</optb>
+		<optc>Absorption of Co2</optc>
+		<optd>None of these</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Which of the following cities of India is called the "Silicon Valley of India"?</ques>
+		<opta>Hyderabad</opta>
+		<optb>Bangalore</optb>
+		<optc>Mumbai</optc>
+		<optd>Chennai</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>All revenues received and loans raised by the Union Government go into</ques>
+		<opta>Public Accounts of India</opta>
+		<optb>Consolidated Fund of India</optb>
+		<optc>Contingency Fund of India</optc>
+		<optd>None of these</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Lines on a map, where pressures are equal, are called</ques>
+		<opta>Longitudes</opta>
+		<optb>Latitudes</optb>
+		<optc>Isobars</optc>
+		<optd>Isotopes</optd>
+		<ca>1</ca>
+		<ap>50,10,20,20</ap>
+	</quest>
+	
+	<quest>
+		<ques>Largest river in the world is</ques>
+		<opta>Nile</opta>
+		<optb>Brahmaputra</optb>
+		<optc>Amazon</optc>
+		<optd>Mississippi</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>The term 16 yards hit is associated with</ques>
+		<opta>Polo</opta>
+		<optb>Hockey</optb>
+		<optc>Baseball</optc>
+		<optd>Badminton</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Acupuncture is widely practised in</ques>
+		<opta>India</opta>
+		<optb>America</optb>
+		<optc>China</optc>
+		<optd>Germany</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>"James Bond" is a character created by</ques>
+		<opta>Ian Fleming</opta>
+		<optb>Perry Masion</optb>
+		<optc>Agatha Christie</optc>
+		<optd>Wode House</optd>
+		<ca>1</ca>
+		<ap>50,10,20,20</ap>
+	</quest>
+	
+	<quest>
+		<ques>The oceans cover -------- of the surface of the earth</ques>
+		<opta>71%</opta>
+		<optb>60%</optb>
+		<optc>81%</optc>
+		<optd>90%</optd>
+		<ca>1</ca>
+		<ap>50,10,20,20</ap>
+	</quest>
+	
+	<quest>
+		<ques> The sphere of living matter together with water, air and soil on the surface of the earth is known as</ques>
+		<opta>Lithosphere</opta>
+		<optb>Biosphere</optb>
+		<optc>Hydrosphere</optc>
+		<optd>Atmosphere</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>The term Grand Slam is associated with</ques>
+		<opta>Billiards</opta>
+		<optb>Chess</optb>
+		<optc>Cricket</optc>
+		<optd>Bridge and Tennis</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>The study which deals with secret writing is known as</ques>
+		<opta>Cryptography</opta>
+		<optb>Secretology</optb>
+		<optc>Cytography</optc>
+		<optd>Cryptology</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+	
+	<quest>
+		<ques>"City of Golden Gates" is</ques>
+		<opta>Hawan</opta>
+		<optb>San Francisco</optb>
+		<optc>London</optc>
+		<optd>Paris</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques> The "stones" formed in human kidney consist mostly of</ques>
+		<opta>Calcium oxalate</opta>
+		<optb>Magnesium sulphate</optb>
+		<optc>Sodium chloride</optc>
+		<optd>Sodium phosphate</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques> IC chips used in computers are usually made of</ques>
+		<opta>Lead</opta>
+		<optb>Silicon</optb>
+		<optc>Chromium</optc>
+		<optd>Gold</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Which is the capital of Manipur?</ques>
+		<opta>Dispur</opta>
+		<optb>Imphal</optb>
+		<optc>Agartala</optc>
+		<optd>None of these</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Who is the first Indian Field Marshal?</ques>
+		<opta> K. M. Kariappa</opta>
+		<optb> S.H.F.J. Manekshaw</optb>
+		<optc>K. Sunderji</optc>
+		<optd>None of those</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Yakshagan is the famous dance form of the State of</ques>
+		<opta>Andhra Pradesh</opta>
+		<optb>Orissa</optb>
+		<optc>Karnataka</optc>
+		<optd>Tamil Nadu</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>How may squares are there in a Chess Board?</ques>
+		<opta>36</opta>
+		<optb>48</optb>
+		<optc>64</optc>
+		<optd>72</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>Which city is famous for oranges?</ques>
+		<opta>Ratnagiri</opta>
+		<optb>Darjeeling</optb>
+		<optc>Nagpur</optc>
+		<optd>Lucknow</optd>
+		<ca>3</ca>
+		<ap>10,20,55,15</ap>
+	</quest>
+	
+	<quest>
+		<ques> Who has called political parties 'broker of ideas'?</ques>
+		<opta>Bryce</opta>
+		<optb>Lowell</optb>
+		<optc>MacIver</optc>
+		<optd>Mitchel</optd>
+		<ca>2</ca>
+		<ap>5,65,15,15</ap>
+	</quest>
+	
+	<quest>
+		<ques>The thinkers who believe that 'state is an association of associations' are called-</ques>
+		<opta>Socialists</opta>
+		<optb>Federalists</optb>
+		<optc>Anarchists</optc>
+		<optd>Pluralists</optd>
+		<ca>4</ca>
+		<ap>10,10,10,60</ap>
+	</quest>
+</kbc>
